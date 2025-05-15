@@ -34,7 +34,7 @@ export default function Home() {
           </a>
         </div>
         <div>
-          <a href="https://www.instagram.com/amoodaniels" target="_blank">
+          <a href="https://www.instagram.com/_amoodaniels" target="_blank">
             <Image
               src="/icons8-instagram-32.png"
               width={32}
@@ -57,7 +57,7 @@ export default function Home() {
       {/* Header Section */}
       <header className="space-y-6  py-10">
         <Image
-          src="/amoo-photo.jpeg"
+          src="/IMG-20250509-WA0038.jpg"
           width={150}
           height={300}
           alt="Amoo Daniels"
@@ -250,7 +250,7 @@ export default function Home() {
             I am a prolific author and I have penned three impactful books{" "}
             <a
               className="text-[#f06c3df5] underline font-semibold"
-              href="https://a.co/d/cFdlxQ8"
+              href="https://a.co/d/cFdLxQ8"
               target="_blank"
             >
               Anglophobia
