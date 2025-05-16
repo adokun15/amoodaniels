@@ -250,7 +250,7 @@ export default function Home() {
             I am a prolific author and I have penned three impactful books{" "}
             <a
               className="text-[#f06c3df5] underline font-semibold"
-              href="https://a.co/d/cFdLxQ8"
+              href="https://a.co/d/cFdIxQ8"
               target="_blank"
             >
               Anglophobia
